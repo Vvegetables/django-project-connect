@@ -1,0 +1,8 @@
+*.pyc
+**/__pychache__
+/.metadata/
+
+**/migrations
+.project
+.pydevproject
+.settings
